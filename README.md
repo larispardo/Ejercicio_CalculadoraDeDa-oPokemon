@@ -24,5 +24,7 @@ Entonces crea una función que dados dos pokemon y el ataque a utilizar este hag
 
 Te recomiendo hacer la variable pokemon una estructura de datos la cuál contenga al menos el nombre del pokemon, el nivel, el ataque físico, especial y la defensa física y especial. En este caso asume que los valores que tengan que ver con los tipos valgan 1.
 
+Como ejemplo, imagina que tienes un Glaceon de tipo hielo nivel 75 con un estadístico de ataque físico de 123 y usa el ataque de Ice Fang con poder de 65 sobre un Garchomp de tipo Dregon/Tierra con un estadístico de defensa física de 163. ¿Cuál es el resultado de un ataque? ¿Cuál es el valor mínimo y máximo que puede dar este ataque?
+
 ## BONUS
 Haz los cálculos de tal manera que la variable de pokemon tenga la información de los tipos, y calcule la variable de Type en la fórmula con base en estos, de igual manera haz los cálculos de tal manera de que siempre trunques al entero anterior siempre que realices una multiplicación o una división, en vez de hacerlo al final.
